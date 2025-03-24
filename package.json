@@ -1,0 +1,26 @@
+{
+  "name": "fool-proofing-hooks",
+  "version": "0.0.1",
+  "description": "Fool Proofing React Hooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZCY-FE/fool-proofing-hooks.git"
+  },
+  "keywords": [
+    "react",
+    "hooks"
+  ],
+  "author": "Jiango",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZCY-FE/fool-proofing-hooks/issues"
+  },
+  "homepage": "https://github.com/ZCY-FE/fool-proofing-hooks#readme",
+  "devDependencies": {
+    "react": "^18.3.1"
+  }
+}
